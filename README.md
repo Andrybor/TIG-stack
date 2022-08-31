@@ -1,5 +1,5 @@
 # TIG-stack-.NET-MongoDB-Elastic-Nginx-Docker-
-Using TIG stack setup monitoring for .NET WEB API, MongoDB, Elastic, Nginx. Up by docker-compose
+Using TIG stack setup monitoring for .NET WEB API(collect metrics with Prometheus), MongoDB, Elastic, Nginx. Up by docker-compose
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -20,6 +20,7 @@ Using TIG stack setup monitoring for .NET WEB API, MongoDB, Elastic, Nginx. Up b
 6. Grafana
 7. Telegraf
 8. InfluxDb
+9. Prometheus
 
 
 ### Installation
