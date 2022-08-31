@@ -31,8 +31,8 @@ Using TIG stack setup monitoring for .NET WEB API(collect metrics with Prometheu
    ```
 3. Docker
    ```sh
-   docker build .
-   docker build . -t nginx.Dockerfile -f projectorapi
+   docker build . -f projectorapi
+   docker build . -t nginx.Dockerfile -f projectorapi.nginx
    docker-compose up -d
    ```
 4. Connect Influxdb to grafana
